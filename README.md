@@ -38,6 +38,9 @@ Head over to the [wiki tab](https://github.com/teaching-louis/awesome-ai-securit
 
 
 # People to follow
+* Daniel Miessler - Followed his work closely when he was in security (and he once followed mine) - now I find I align really well with his takes on AI Security too
+  * [LinkedIn](https://www.linkedin.com/in/danielmiessler/)
+  * [Github](https://github.com/danielmiessler) - If you've used SecLists, you've seen some of Daniel's stuff. Maybe you've used Fabric too?
 * Sandy Dunn - Core Team OWASP Top Ten for LLM
   * [LinkedIn](https://www.linkedin.com/in/sandydunnciso/)
   * [Github](https://github.com/subzer0girl2)
