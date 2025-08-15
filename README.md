@@ -24,26 +24,26 @@ Head over to the [wiki tab](https://github.com/teaching-louis/awesome-ai-securit
 
 ## NIST Resources
 * [NIST AI Risk Management Framework (AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) - Great document. Definitely worth looking at
-* [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
-* [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/)
+    * [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
+    * [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/)
 * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://www.nist.gov/publications/adversarial-machine-learning-taxonomy-and-terminology-attacks-and-mitigations-0)
 * [SP 800-53 Control Overlays for Securing AI Systems Concept Paper](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf)
 
 
 ## OWASP Resources
 * [GenAI](https://genai.owasp.org/) - Collection of all of OWASP's LLM and GenAI Projects
-  * [LLM Top 10 Risk & Mitigations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/)
-  * [AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions-landscape/)
-  * [LLM Applications Cybersecurity and Governance Checklist – English](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
+    * [LLM Top 10 Risk & Mitigations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/)
+    * [AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions-landscape/)
+    * [LLM Applications Cybersecurity and Governance Checklist – English](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
 
 
 # People to follow
 * Daniel Miessler - Followed his work closely when he was in security (and he once followed mine) - now I find I align really well with his takes on AI Security too
-  * [LinkedIn](https://www.linkedin.com/in/danielmiessler/)
-  * [Github](https://github.com/danielmiessler) - If you've used SecLists, you've seen some of Daniel's stuff. Maybe you've used Fabric too?
+    * [LinkedIn](https://www.linkedin.com/in/danielmiessler/)
+    * [Github](https://github.com/danielmiessler) - If you've used SecLists, you've seen some of Daniel's stuff. Maybe you've used Fabric too?
 * Sandy Dunn - Core Team OWASP Top Ten for LLM
-  * [LinkedIn](https://www.linkedin.com/in/sandydunnciso/)
-  * [Github](https://github.com/subzer0girl2)
+    * [LinkedIn](https://www.linkedin.com/in/sandydunnciso/)
+    * [Github](https://github.com/subzer0girl2)
 * Disesdi Susanna - AI Security Researcher - Has some great MLSecOps resources [here](https://github.com/disesdi/mlsecops_references)
-  * [LinkedIn](https://www.linkedin.com/in/disesdi/)
-  * [Github](https://github.com/disesdi)
+    * [LinkedIn](https://www.linkedin.com/in/disesdi/)
+    * [Github](https://github.com/disesdi)
