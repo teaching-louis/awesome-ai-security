@@ -1,7 +1,7 @@
 # Awesome AI Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Curation of awesome AI resources. If you want to contribute, create a PR or contact me [LinkedIn](https://linkedin.com/in/louiscremen)
+Curation of awesome AI security resources. If you want to contribute, create a PR or contact me [LinkedIn](https://linkedin.com/in/louiscremen)
 
-Head over to the [wiki tab](https://github.com/teaching-louis/awesome-ai-security/wiki/Home) for a table of contents
+Head over to the [wiki](https://github.com/teaching-louis/awesome-ai-security/wiki/Home) tab for a table of contents
 
 # AI Security Authorities
 
