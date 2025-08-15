@@ -8,8 +8,8 @@ Head over to the [wiki tab](https://github.com/teaching-louis/awesome-ai-securit
 
 ## EU Artificial Intelligence Act
 * [Homepage](https://artificialintelligenceact.eu/) - A lot of their main resources are shown on the homepage if you need a quick place to understand EU AI compliance
- * [High Level Summary](https://artificialintelligenceact.eu/high-level-summary/)
- * [AI Act Explorer](https://artificialintelligenceact.eu/ai-act-explorer/)
+    * [High Level Summary](https://artificialintelligenceact.eu/high-level-summary/)
+    * [AI Act Explorer](https://artificialintelligenceact.eu/ai-act-explorer/)
 
 
 ## ISACA Resources
