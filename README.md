@@ -35,6 +35,7 @@ Head over to the [wiki tab](https://github.com/teaching-louis/awesome-ai-securit
     * [LLM Top 10 Risk & Mitigations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/)
     * [AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions-landscape/)
     * [LLM Applications Cybersecurity and Governance Checklist – English](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
+    * [AI Maturity Assessment](https://owasp.org/www-project-ai-maturity-assessment/)
 
 
 # People to follow
