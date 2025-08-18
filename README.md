@@ -1,6 +1,22 @@
 # Awesome AI Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Curation of awesome AI security resources. If you want to contribute, create a PR or contact me [LinkedIn](https://linkedin.com/in/louiscremen)
 
+## Table of Contents
+
+- [AI Security Authorities](#ai-security-authorities)
+  - [EU Artificial Intelligence Act](#eu-artificial-intelligence-act)
+  - [ISACA Resources](#isaca-resources)
+  - [Mitre Resources](#mitre-resources)
+  - [NIST Resources](#nist-resources)
+  - [OWASP Resources](#owasp-resources)
+
+- [AI Security Failures](#ai-security-failures)
+  - [Prompt Injection Attacks](#prompt-injection-attacks)
+  - [Third Party Attacks](#third-party-attacks)
+  - [Vibe Coding Failures](#vibe-coding-failures)
+
+- [People to Follow](#people-to-follow)
+
 # AI Security Authorities
 
 
