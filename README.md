@@ -53,6 +53,8 @@ Curation of awesome AI security resources. If you want to contribute, create a P
 
 ## AI Security Failures
 
+* [AI Incident Database](https://incidentdatabase.ai/) - This is an amazing database of AI related incidents. 
+
 ### Prompt Injection Attacks
 * July 14th 2025 - [Google Gemini for Workspace vulnerable to prompt injection attacks](https://www.itnews.com.au/news/google-gemini-for-workspace-vulnerable-to-prompt-injection-attacks-618729) - Google's Gemini artificial intelligence bundled with the tech giant's Workspace productivity suite can be tricked into executing malicious instructions hidden inside emails, researchers have shown.
 * August 8th 2025 - [Copilot, could allow anyone to extract information from a network without authorisation. Threat actors can exploit to collect and exfiltrate sensitive information from a target.](https://nvd.nist.gov/vuln/detail/cve-2025-32711) - Another example of AI being used to exfiltrate data through a malicious prompt
