@@ -64,6 +64,8 @@ Curation of awesome AI security resources. If you want to contribute, create a P
 * July 23rd 2025 - [Vibe Coding Fiasco: AI Agent Goes Rogue, Deletes Company's Entire Database](https://au.pcmag.com/ai/112222/vibe-coding-fiasco-ai-agent-goes-rogue-deletes-companys-entire-database) - Replit went rogue and deleted a database without permission during a code freeze
 
 ## People to follow
+* Me :) - Louis Cremen
+    * [LinkedIn](https://www.linkedin.com/in/louiscremen)
 * Daniel Miessler - Followed his work closely when he was in security (and he once followed mine) - now I find I align really well with his takes on AI Security too
     * [LinkedIn](https://www.linkedin.com/in/danielmiessler/)
     * [Github](https://github.com/danielmiessler) - If you've used SecLists, you've seen some of Daniel's stuff. Maybe you've used Fabric too?
