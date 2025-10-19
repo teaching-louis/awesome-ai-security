@@ -3,6 +3,8 @@ Curation of awesome AI security resources. If you want to contribute, create a P
 
 ## Table of Contents
 
+- [AI Attack Classifications](#ai-attack-classifications)
+
 - [AI Security Authorities](#ai-security-authorities)
   - [EU Artificial Intelligence Act](#eu-artificial-intelligence-act)
   - [ISACA Resources](#isaca-resources)
@@ -17,8 +19,12 @@ Curation of awesome AI security resources. If you want to contribute, create a P
 
 - [People to Follow](#people-to-follow)
 
-## AI Security Authorities
+## AI Attack Classifications
 
+* [Mitre ATLAS](https://atlas.mitre.org/matrices/ATLAS)
+* [HiddenLayer Prompt Injection Classifications](https://ape.hiddenlayer.com/graph.html)
+
+## AI Security Authorities
 
 ### EU Artificial Intelligence Act
 * [EU AI Homepage](https://artificialintelligenceact.eu/) - A lot of their main resources are shown on the homepage if you need a quick place to understand EU AI compliance
