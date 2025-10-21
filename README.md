@@ -57,6 +57,9 @@ Curation of awesome AI security resources. If you want to contribute, create a P
     * [LLM Applications Cybersecurity and Governance Checklist – English](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
     * [AI Maturity Assessment](https://owasp.org/www-project-ai-maturity-assessment/)
 
+### OECD Resouorces
+* [OECD](https://oecd.ai/en/catalogue/metrics) - Catalogue of Tools & Metrics for Trustworthy AI
+
 ## AI Security Failures
 
 * [AI Incident Database](https://incidentdatabase.ai/) - This is an amazing database of AI related incidents. 
