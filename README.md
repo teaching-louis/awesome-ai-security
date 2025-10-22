@@ -12,6 +12,7 @@ Curation of awesome AI security resources. If you want to contribute, create a P
   - [NIST Resources](#nist-resources)
   - [OWASP Resources](#owasp-resources)
   - [OECD Resources](#oecd-resources)
+  - [Plot4AI](#plot4ai-resources)
 
 - [AI Security Failures](#ai-security-failures)
   - [Prompt Injection Attacks](#prompt-injection-attacks)
@@ -60,6 +61,9 @@ Curation of awesome AI security resources. If you want to contribute, create a P
 
 ### OECD Resources
 * [OECD Catalogue of Tools & Metrics for Trustworthy AI](https://oecd.ai/en/catalogue/metrics) - Fantastic set of metrics for AI
+
+### Plot4AI
+* [Library of AI Threats](https://plot4.ai/library) - At the time of publishing, there were 138 threats related to AI published at Plot4AI
 
 ## AI Security Failures
 
